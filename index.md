@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP mth3l3m3nt framework
 tags: example-tag
 level: 4
+type: tool
 
 ---
 
