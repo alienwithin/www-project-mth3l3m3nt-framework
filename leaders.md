@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Munir Nijur](mailto:munir.njiru@owasp.org)
+* [Munir Njiru](mailto:munir.njiru@owasp.org)
